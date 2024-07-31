@@ -1,0 +1,76 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Andraaa",
+      "age": "16",
+      "address": "Surakarta",
+      "gender": "Custom",
+      "created_at": "2024-07-11T06:57:08.048Z"
+    },
+    {
+      "id": "2",
+      "name": "By U",
+      "age": "44",
+      "address": "Ngawi",
+      "gender": "Custom",
+      "created_at": "2024-07-11T08:03:34.864Z"
+    },
+    {
+      "id": "3",
+      "name": "Ojay",
+      "age": "17",
+      "address": "Pelosok",
+      "gender": "Custom",
+      "created_at": "2024-07-11T08:21:23.373Z"
+    },
+    {
+      "id": "4",
+      "name": "Asep",
+      "age": "12",
+      "address": "Surakarta",
+      "gender": "Male",
+      "created_at": "2024-07-11T08:22:24.194Z"
+    },
+    {
+      "id": "5",
+      "name": "Xaviera Putri",
+      "age": "20",
+      "address": "Surakarta",
+      "gender": "Female",
+      "created_at": "2024-07-11T08:22:57.297Z"
+    },
+    {
+      "id": "6",
+      "name": "Michelle Alexandra",
+      "age": "18",
+      "address": "Surakarta",
+      "gender": "Female",
+      "created_at": "2024-07-11T08:23:14.367Z"
+    },
+    {
+      "id": "7",
+      "name": "Freya",
+      "age": "17",
+      "address": "Jakarta",
+      "gender": "Female",
+      "created_at": "2024-07-11T08:23:39.563Z"
+    },
+    {
+      "id": "8",
+      "name": "Azizi Asadel",
+      "age": "17",
+      "address": "Surakarta",
+      "gender": "Female",
+      "created_at": "2024-07-11T08:24:30.092Z"
+    },
+    {
+      "id": "9",
+      "name": "Kevin ",
+      "age": "16",
+      "address": "Surakarta",
+      "gender": "Male",
+      "created_at": "2024-07-11T08:28:20.896Z"
+    }
+  ]
+}
